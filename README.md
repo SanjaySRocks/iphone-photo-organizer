@@ -136,7 +136,7 @@ video_extensions = .mov,.mp4
 ### Basic Usage
 
 ```bash
-python organize_media.py
+python main.py
 ```
 
 ### Workflow Examples
