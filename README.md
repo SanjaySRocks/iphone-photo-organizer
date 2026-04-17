@@ -60,7 +60,7 @@ cd organize-iphone-photos
 ### 2. Install dependencies
 
 ```bash
-pip install pillow tqdm
+pip install -r requirements.txt
 ```
 
 ### 3. Configure the script
