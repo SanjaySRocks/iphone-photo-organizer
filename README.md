@@ -214,7 +214,7 @@ show_progress_bar = true
 ```
 
 ```bash
-python organize_media.py
+python main.py
 ```
 
 **Output:**
@@ -241,7 +241,7 @@ operation = move
 ```
 
 ```bash
-python organize_media.py
+python main.py
 ```
 
 Review `duplicates.log` to see which files are duplicates, then:
@@ -259,7 +259,7 @@ dry_run = false
 ```
 
 ```bash
-python organize_media.py
+python main.py
 ```
 
 Files will be moved from source to organized destination structure.
